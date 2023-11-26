@@ -1,0 +1,14 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    border: 5px dotted green;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 100px;
+}
+h2{
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    font-size: 80px;
+}
